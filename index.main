@@ -1,0 +1,129 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>S. Vigneshwaran | Mechanical Engineer</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  color: #333;
+}
+.profile {
+  max-width: 750px;
+  margin: 40px auto;
+  background: white;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 5px 20px #aaa;
+}
+.header {
+  background: #d60000;
+  color: white;
+  text-align: center;
+  padding: 45px 20px;
+}
+.header h1 {
+  font-size: 34px;
+  margin-bottom: 10px;
+}
+.header p {
+  font-size: 18px;
+}
+.content {
+  padding: 30px;
+}
+h2 {
+  color: #d60000;
+  border-bottom: 2px solid #d60000;
+  padding-bottom: 8px;
+  margin-bottom: 15px;
+}
+section {
+  margin-bottom: 25px;
+}
+ul {
+  padding-left: 22px;
+  line-height: 2;
+}
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 18px;
+}
+</style>
+</head>
+<body>
+
+<div class="profile">
+
+  <div class="header">
+    <h1>S. VIGNESHWARAN</h1>
+    <p>MECHANICAL ENGINEER</p>
+    <p>Professional Profile</p>
+  </div>
+
+  <div class="content">
+
+    <section>
+      <h2>About Me</h2>
+      <p>
+        I am S. Vigneshwaran, a Mechanical Engineering
+        professional interested in mechanical design,
+        manufacturing, production and engineering technology.
+      </p>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <ul>
+        <li>Mechanical Engineering</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Technical Skills</h2>
+      <ul>
+        <li>Mechanical Design</li>
+        <li>AutoCAD</li>
+        <li>Manufacturing Process</li>
+        <li>Production Engineering</li>
+        <li>Quality Control</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Career Objective</h2>
+      <p>
+        To build a successful career in the mechanical
+        engineering field and contribute my technical
+        knowledge and skills to an organization.
+      </p>
+    </section>
+
+    <section>
+      <h2>Contact Details</h2>
+      <p>Name: S. Vigneshwaran</p>
+      <p>Department: Mechanical Engineering</p>
+      <p>Email: Your Email</p>
+      <p>Phone: Your Mobile Number</p>
+    </section>
+
+  </div>
+
+  <footer>
+    © 2026 S. Vigneshwaran | Mechanical Engineer
+  </footer>
+
+</div>
+
+</body>
+</html>
